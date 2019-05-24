@@ -1,2 +1,0 @@
-# AJaxrandom
-Created with CodeSandbox
